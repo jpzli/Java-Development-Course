@@ -1,0 +1,13 @@
+First Name: NM
+Last Name: NB
+Flight Number: 23564
+Depart From: Montreal
+Destination: Edmonton
+Date of Departure: 2017/6/9
+Time of Departure: 13:00
+Duration of flight: 4.5hours
+Seats Avaliable: 1
+Price: $315.5
+Taxes at 7%: $22.085
+Total: $337.585
+
